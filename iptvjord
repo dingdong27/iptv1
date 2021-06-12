@@ -1,0 +1,472 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="Ungrouped", TV3 CH103
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/305207084.jpg" group-title="Ungrouped", CARTOON NETWORK FHD
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/38570
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141176.jpg" group-title="Ungrouped", BEINSPORT1
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/544
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141177.jpg" group-title="Ungrouped", BEINSPORT2
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/543
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141178.jpg" group-title="Ungrouped", BEINSPORT3
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/542
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="Ungrouped", Astro Supersport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="Ungrouped", Astro Supersport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="Ungrouped", Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="Ungrouped", Astro Supersport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="Ungrouped", Astro Supersport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png" group-title="Ungrouped", Discovery Channel 552
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png" group-title="Ungrouped", Discovery Investigation
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png" group-title="Ungrouped", Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg" group-title="Ungrouped", Astro 华丽台 [TVB Jade]
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442901.png" group-title="Ungrouped", TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442902.png" group-title="Ungrouped", axn
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482832.png" group-title="Ungrouped", foxcrime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482833.png" group-title="Ungrouped", hbo
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482835.jpg" group-title="Ungrouped", celestial
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482836.jpg" group-title="Ungrouped", celestial 2
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482837.png" group-title="Ungrouped", Aec
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482838.jpg" group-title="Ungrouped", xiantaiyang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482839.jpg" group-title="Ungrouped", huahee
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487190.png" group-title="Ungrouped", shuangxing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487191.png" group-title="Ungrouped", qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487192.png" group-title="Ungrouped", boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487193.jpg" group-title="Ungrouped", prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487197.png" group-title="Ungrouped", arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487198.jpg" group-title="Ungrouped", xinhe
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487199.png" group-title="Ungrouped", quanjia
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487223.png" group-title="Ungrouped", AODHD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487224.png" group-title="Ungrouped", Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487226.jpg" group-title="Ungrouped", tv1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487229.png" group-title="Ungrouped", ntv7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487230.png" group-title="Ungrouped", tv8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487231.png" group-title="Ungrouped", tv9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893988.png" group-title="Ungrouped", Warner TV HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893990.png" group-title="Ungrouped", National Geographic HD
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893991.png" group-title="Ungrouped", Nat Geo Wild HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Ungrouped", Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693751/307487342.jpg" group-title="Ungrouped", privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png" group-title="Ungrouped", Hits Movie CH401
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/b4571424c20b5fc93f285.png" group-title="Ungrouped", CINEMAX ACTIONMAX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="Ungrouped", BERNAMA CH502
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF: -1 tvg-id="disney" tvg-name="Disney Channel (Eng)" tvg-logo="https://i.postimg.cc/N02Xs2s2/disney2.png" group-title="Ungrouped", Disney Channel (Eng)
+http://zalogitv.tech:8080/Rizal/Rizal/620
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/fbd995d0-c098-11eb-97c8-3d36c960d834/1686664/305979919.png" group-title="Ungrouped", Astro Citra
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="Ungrouped", TV3 CH103
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/305207084.jpg" group-title="Ungrouped", CARTOON NETWORK FHD
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/38570
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141176.jpg" group-title="Ungrouped", BEINSPORT1
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/544
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141177.jpg" group-title="Ungrouped", BEINSPORT2
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/543
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141178.jpg" group-title="Ungrouped", BEINSPORT3
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/542
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301479494.jpg" group-title="Ungrouped", Red by HBO
+http://zalogitv.tech:8080/Rizal/Rizal/1374
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="Ungrouped", Astro Supersport 4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="Ungrouped", Astro Supersport 1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="Ungrouped", Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="Ungrouped", Astro Supersport 2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="Ungrouped", Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-id="Erz.champions1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="Ungrouped", Astro Supersport 3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png" group-title="Ungrouped", Discovery Science HD CH554
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/824c1c20-bfce-11eb-baa6-c99c336c9376/1683693/305207597.jpg" group-title="Ungrouped", HISTORY HD
+http://zalogitv.tech:8080/Rizal/Rizal/1437
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/82eb7950-becc-11eb-bde8-595c2f67f345/1677860/303893749.jpg" group-title="Ungrouped", Animax
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png" group-title="Ungrouped", Discovery Channel 552
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png" group-title="Ungrouped", Discovery Investigation
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png" group-title="Ungrouped", Discovery Life
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
+#EXTINF: -1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/303748184.png" group-title="Ungrouped", TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg" group-title="Ungrouped", Astro 华丽台 [TVB Jade]
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893873.png" group-title="Ungrouped", Animal Planet HD
+http://zalogitv.tech:8080/Rizal/Rizal/1435
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893883.jpg" group-title="Ungrouped", ASTRO Colors Tamil
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893884.jpg" group-title="Ungrouped", ASTRO Zee  movie
+http://zalogitv.tech:8080/Rizal/Rizal/1744
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893885.jpg" group-title="Ungrouped", ASTRO GO Shop 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6718
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893886.jpg" group-title="Ungrouped", ASTRO Vinmeen HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893890.jpg" group-title="Ungrouped", ASTRO Star Vijay HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893901.png" group-title="Ungrouped", ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893902.jpg" group-title="Ungrouped", ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893903.png" group-title="Ungrouped", ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893904.jpg" group-title="Ungrouped", ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893910.jpg" group-title="Ungrouped", BollyOne HD
+http://zalogitv.tech:8080/Rizal/Rizal/12857
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893911.jpg" group-title="Ungrouped", Channel News Asia HD
+http://zalogitv.tech:8080/Rizal/Rizal/13200
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893954.png" group-title="Ungrouped", Nick Jr
+http://zalogitv.tech:8080/Rizal/Rizal/1459
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893957.jpg" group-title="Ungrouped", KPlus HD
+http://zalogitv.tech:8080/Rizal/Rizal/1407
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893958.jpg" group-title="Ungrouped", Kix HD
+http://zalogitv.tech:8080/Rizal/Rizal/1410
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893997.jpg" group-title="Ungrouped", Era FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7169
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893998.png" group-title="Ungrouped", Hot FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7170
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893999.png" group-title="Ungrouped", Hitz FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7171
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894000.png" group-title="Ungrouped", Sinar FM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7172
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894001.png" group-title="Ungrouped", Sinar FM (backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7173
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894002.jpg" group-title="Ungrouped", THR GEGAR
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7174
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894003.jpg" group-title="Ungrouped", THR GEGAR (backup)
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7175
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894004.png" group-title="Ungrouped", Cinema World
+http://zalogitv.tech:8080/Rizal/Rizal/1382
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894012.jpg" group-title="Ungrouped", BBC Earth
+http://zalogitv.tech:8080/Rizal/Rizal/1434
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894014.png" group-title="Ungrouped", Hypp Inspirasi HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7335
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894015.png" group-title="Ungrouped", Hypp Luxe TV HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7336
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894028.jpg" group-title="Ungrouped", ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894034.jpg" group-title="Ungrouped", Golf Channel HD
+http://zalogitv.tech:8080/Rizal/Rizal/438
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894087.png" group-title="Ungrouped", MUTV
+http://zalogitv.tech:8080/Rizal/Rizal/1887
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894088.jpg" group-title="Ungrouped", LFC TV
+http://zalogitv.tech:8080/Rizal/Rizal/1889
+#EXTINF: -1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="Ungrouped", BBC World News (480p)
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893922.png" group-title="Ungrouped", eGG Network
+http://zalogitv.tech:8080/Rizal/Rizal/1898
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893924.png" group-title="Ungrouped", Dreamworks HD
+http://zalogitv.tech:8080/Rizal/Rizal/1456
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893875.png" group-title="Ungrouped", Aniplus HD
+http://zalogitv.tech:8080/Rizal/Rizal/1465
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670372/301893898.jpg" group-title="Ungrouped", ASTRO Oh!K HD
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893953.png" group-title="Ungrouped", Nickelodeon HD
+http://zalogitv.tech:8080/Rizal/Rizal/1460
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442899.png" group-title="Ungrouped", FOXACTION HD
+http://zalogitv.tech:8080/Rizal/Rizal/1358
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442900.jpg" group-title="Ungrouped", THRILL
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893901.png" group-title="Ungrouped", ASTRO Tutor TV PT3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442901.png" group-title="Ungrouped", TLC
+http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893902.jpg" group-title="Ungrouped", ASTRO Tutor TV SPM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442902.png" group-title="Ungrouped", axn
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893903.png" group-title="Ungrouped", ASTRO Tutor TV UPSR
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442903.png" group-title="Ungrouped", foxsport 1
+http://zalogitv.tech:8080/Rizal/Rizal/432
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893904.jpg" group-title="Ungrouped", ASTRO TVIQ
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442904.jpg" group-title="Ungrouped", Foxsport 2
+http://zalogitv.tech:8080/Rizal/Rizal/433
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442905.jpg" group-title="Ungrouped", FOXSPORT 3
+http://zalogitv.tech:8080/Rizal/Rizal/434
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893907.jpg" group-title="Ungrouped", BBC Lifestyle
+http://zalogitv.tech:8080/Rizal/Rizal/1419
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442906.png" group-title="Ungrouped", foxmovie
+http://zalogitv.tech:8080/Rizal/Rizal/1849
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307442907.jpg" group-title="Ungrouped", foxlife
+./21060803008252.ts
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893909.png" group-title="Ungrouped", Bloomberg TV
+http://zalogitv.tech:8080/Rizal/Rizal/1499
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482830.png" group-title="Ungrouped", foxfamily
+http://zalogitv.tech:8080/Rizal/Rizal/1852
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482831.png" group-title="Ungrouped", Foxhd
+http://zalogitv.tech:8080/Rizal/Rizal/1848
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893911.jpg" group-title="Ungrouped", Channel News Asia HD
+http://zalogitv.tech:8080/Rizal/Rizal/13200
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482832.png" group-title="Ungrouped", foxcrime
+http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482833.png" group-title="Ungrouped", hbo
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482834.png" group-title="Ungrouped", hbosignature
+http://zalogitv.tech:8080/Rizal/Rizal/1365
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482835.jpg" group-title="Ungrouped", celestial
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482836.jpg" group-title="Ungrouped", celestial 2
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482837.png" group-title="Ungrouped", Aec
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893917.png" group-title="Ungrouped", crime & investigation HD
+http://zalogitv.tech:8080/Rizal/Rizal/1447
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482838.jpg" group-title="Ungrouped", xiantaiyang
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893918.png" group-title="Ungrouped", FX Cinema HD
+http://zalogitv.tech:8080/Rizal/Rizal/13044
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482839.jpg" group-title="Ungrouped", huahee
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893919.png" group-title="Ungrouped", France 24 HD
+http://zalogitv.tech:8080/Rizal/Rizal/1500
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487190.png" group-title="Ungrouped", shuangxing
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487191.png" group-title="Ungrouped", qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487192.png" group-title="Ungrouped", boo
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487193.jpg" group-title="Ungrouped", prima
+http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487194.jpg" group-title="Ungrouped", ceria
+http://zalogitv.tech:8080/Rizal/Rizal/1800
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487195.jpg" group-title="Ungrouped", RIA
+http://zalogitv.tech:8080/Rizal/Rizal/1819
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487196.jpg" group-title="Ungrouped", warna
+http://zalogitv.tech:8080/Rizal/Rizal/1818
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487197.png" group-title="Ungrouped", arena
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487198.jpg" group-title="Ungrouped", xinhe
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF: 9 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487199.png" group-title="Ungrouped", quanjia
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487223.png" group-title="Ungrouped", AODHD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487224.png" group-title="Ungrouped", Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487225.png" group-title="Ungrouped", hello
+http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893932.jpg" group-title="Ungrouped", Colors Cineplex
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6768
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487226.jpg" group-title="Ungrouped", tv1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/a06f4e70-c55a-11eb-b096-359e91fc463a/1703692/309425339.jpg" group-title="Ungrouped", tv2
+http://zalogitv.tech:8080/Rizal/Rizal/1830
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487228.png" group-title="Ungrouped", tv3
+http://zalogitv.tech:8080/Rizal/Rizal/1831
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487229.png" group-title="Ungrouped", ntv7
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487230.png" group-title="Ungrouped", tv8
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF: 10 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487231.png" group-title="Ungrouped", tv9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893950.jpg" group-title="Ungrouped", Sony gem fhd
+http://zalogitv.tech:8080/Rizal/Rizal/302
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893951.png" group-title="Ungrouped", Sky News HD
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893956.png" group-title="Ungrouped", MTV
+http://zalogitv.tech:8080/Rizal/Rizal/1740
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893959.jpg" group-title="Ungrouped", KBS World HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893960.jpg" group-title="Ungrouped", Hits Movies HD
+http://zalogitv.tech:8080/Rizal/Rizal/1398
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893973.jpg" group-title="Ungrouped", Drama Sangat
+http://zalogitv.tech:8080/Rizal/Rizal/1826
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893974.jpg" group-title="Ungrouped", TV IKIM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7192
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893975.jpg" group-title="Ungrouped", Berita RTM
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7191
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893977.jpg" group-title="Ungrouped", RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7188
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893978.jpg" group-title="Ungrouped", Cinemax FHD
+http://zalogitv.tech:8080/Rizal/Rizal/1372
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894028.jpg" group-title="Ungrouped", ASTRO Cricket
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6717
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893988.png" group-title="Ungrouped", Warner TV HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894033.png" group-title="Ungrouped", Rugby Pass TV
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6821
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893989.png" group-title="Ungrouped", tVN movies HD
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301894034.jpg" group-title="Ungrouped", Golf Channel HD
+http://zalogitv.tech:8080/Rizal/Rizal/438
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893990.png" group-title="Ungrouped", National Geographic HD
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/301893991.png" group-title="Ungrouped", Nat Geo Wild HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Ungrouped", Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693751/307487342.jpg" group-title="Ungrouped", privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487343.png" group-title="Ungrouped", Syfy HD
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39129
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487344.jpg" group-title="Ungrouped", NAT GEO
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39151
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487347.png" group-title="Ungrouped", CW HD
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39062
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487348.png" group-title="Ungrouped", 5 STAR MAX FHD
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39063
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487349.jpg" group-title="Ungrouped", CBS HD
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39064
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487350.jpg" group-title="Ungrouped", TBS HD
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39065
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/02333910-c2aa-11eb-9b0e-ad031f7010ec/1693752/307487353.png" group-title="Ungrouped", CNN HD
+http://zalogitv.tech:8080/Rizal/Rizal/1498
+#EXTINF: -1 group-title="Ungrouped", America╰ ☆ ╮911™ UFC
+http://xtra.xcs521.cz:8080/00:1A:79:16:FF:0F/ziajdjjfdifjd64646/39157
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png" group-title="Ungrouped", Astro Vaanavil CH201
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/ec1b2e4750ff1c7af2546.png" group-title="Ungrouped", Astro Vinmeen CH202
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6739
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/1ac3f6072dc96481dc6d8.png" group-title="Ungrouped", Makkal TV CH204
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6806
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fda662b3de9bdd84bf978.png" group-title="Ungrouped", Sun TV HD CH211
+http://zalogitv.tech:8080/Rizal/Rizal/13199
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/a00e8122bd692553677ef.png" group-title="Ungrouped", Adithya CH214
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6700
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/63ff70326774e94cf29b1.png" group-title="Ungrouped", Star Vijay HD CH221
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6732
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/813e66c2f879d71fe0151.png" group-title="Ungrouped", Colors Tamil CH222
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/0d0afc349f8d45f458547.jpg" group-title="Ungrouped", Zee Tamil HD CH223
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/0ef6c2b902832a905d3dc.png" group-title="Ungrouped", CTI Asia CH316
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320670
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/4b330adb1e719b7a8720c.jpg" group-title="Ungrouped", TVB News CH318
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg" group-title="Ungrouped", CCM 天映经典 CH321
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png" group-title="Ungrouped", tvN EN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png" group-title="Ungrouped", Hits Movie CH401
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="Ungrouped", HBO Hits
+http://zalogitv.tech:8080/Rizal/Rizal/1367
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png" group-title="Ungrouped", HBO Hits [Backup]
+http://zalogitv.tech:8080/Rizal/Rizal/1367
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/b4571424c20b5fc93f285.png" group-title="Ungrouped", CINEMAX ACTIONMAX
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png" group-title="Ungrouped", CINEMAX PLUS HD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="Ungrouped", BERNAMA CH502
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487226.jpg" group-title="MALAYSIA", RTM1
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="MALAYSIA", RTM2
+https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", TV3 SD
+http://50.7.161.82:8278/streams/d/TV3sd/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAYSIA", TV3 HD
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://mediahomes.github.io/logos/tv6.png" group-title="MALAYSIA", TV6
+https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487229.png" group-title="MALAYSIA", NTV7/DIDIKTV
+http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487230.png" group-title="MALAYSIA", 8TV
+http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487224.png" group-title="ASTRO", ASTRO AWANI HD
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", ASTRO AWANI HD BACKUP
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fc9cace1727875203b211.png" group-title="ASTRO", ASTRO VAANAVIL HD BACKUP
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", ASTRO VAANAVIL HD BACKUP
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png" group-title="ASTRO", Astro AEC
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482837.png" group-title="ASTRO", ASTRO AEC HD
+http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482838.jpg" group-title="ASTRO", ASTRO XIANTAIYANG HD
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307482839.jpg" group-title="ASTRO", ASTRO HUAHEE HD
+http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png" group-title="ASTRO", Astro Shuang Xing
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487190.png" group-title="ASTRO", ASTRO SHUANGXING HD
+http://185.180.221.194:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487191.png" group-title="ASTRO", ASTRO QIYI HD
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487198.jpg" group-title="ASTRO", XINHE
+http://185.180.221.194:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png" group-title="ASTRO", Astro Quan Jia
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487199.png" group-title="ASTRO", ASTRO QUANJIA HD
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487223.png" group-title="ASTRO", ASTRO AOD HD
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="ASTRO", Astro Xiao Tai Yang HD 2[Backup]
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png" group-title="ASTRO", Astro Xiao Tai Yang HD BACKUP
+http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg" group-title="ASTRO", Astro 华丽台 [TVB Jade]
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="SPORT", Astro Supersport 1 HD
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC3N8F_hJKmX9Ct16ir5opC6x30NVo_3exrw&usqp=CAU" group-title="SPORT", Astro Supersport 2 HD
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLuBQjEQPzXniLS9Sy85t1wpSzymd2YdW5Xg&usqp=CAU" group-title="SPORT", Astro Supersport 3 HD
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmKroP1M0tQjt9HJ7olsUlmhuPLBxsw9TceQ&usqp=CAU" group-title="SPORT", Astro Supersport 4 HD
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141176.jpg" group-title="SPORT", BEIN SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/544
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141177.jpg" group-title="SPORT", BEIN SPORT 2 HD
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/543
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/028d6660-c234-11eb-a378-ab364fcd3e6a/1692295/307141178.jpg" group-title="SPORT", BEIN SPORT 3 HD
+http://dimapro.cz:8080/00:1A:79:17:08:39/ziajdjjfdifjd64646/542
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487197.png" group-title="SPORT", ASTRO ARENA HD
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", FOX SPORT 1 HD
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", FOX SPORT 2 HD
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", FOX SPORT 2 HD (BACKUP 1)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", FOX SPORT 3 HD
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", BT SPORT 1 HD
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="SPORT", BT SPORT 2 HD
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
