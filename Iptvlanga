@@ -1,7 +1,3 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="3600"
-
-#EXTINF:-1 group-title="MKS IPTV" tvg-logo="https://i.pinimg.com/originals/06/88/4c/06884c6f8d44cb3c03ab5e84ee85e593.png",MKS IPTV COPYRIGHT
-https://ott.dolby.com/OnDelKits/DDP/Dolby_Digital_Plus_Online_Delivery_Kit_v1.4.1/Test_Signals/muxed_streams/DASH/Live_MPD/ChID_voices_1280x720p_25fps_h264_6ch_256kbps_ddp.mpd
 
 ############### Olimpik RTM ###############
 
