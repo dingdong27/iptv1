@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF http://protv-nordic.club:8080/julia/julia123/28704
+#EXTINF: -1 tvg-id="astro.aec.my" tvg-name="Astro AEC" tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="CHINESE", Astro AEC
+http://protv-nordic.club:8080/julia/julia123/28704
